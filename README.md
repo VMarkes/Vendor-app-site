@@ -1,6 +1,16 @@
 # Fabricapet Vendor App
 Este é o repositório oficial do Fabricapet Vendor App, um aplicativo que permite que vendedores da Fábrica Pet® gerenciem seus pedidos e clientes online.
 
+<a href="https://vmarkes.github.io/Vendor-app-site/">Acesse o site!</a>
+
+<div>
+  <h3>Linguagens, frameworks e bibliotecas utilizadas</h3>
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+</div>
+
 ## Funcionalidades
 <p>• Faça login na sua conta de vendedor para acessar o painel de controle.</p>
 <p>• Gerencie informações da loja, como nome, descrição, endereço e horário de funcionamento.</p>
